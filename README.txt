@@ -1,4 +1,3 @@
-                                      (     UNOFFICIAL     )
                                       
 php library for https://temp-mail.io
 
