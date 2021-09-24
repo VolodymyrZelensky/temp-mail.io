@@ -5,6 +5,6 @@ require "TempMail.php";
 use TempMail\TempMail;
 
 $Email = new TempMail();
-$create = $Email->CreateAddress("AnasYousef6969");
+$create = $Email->CreateAddress("LilNickelX6969");
 print_r($Email->GetAddress());
 
