@@ -36,5 +36,5 @@ if(isset($_GET["do"])){
         print(json_encode(["error" => true, "msg" => "'do' argument not accepted !."],  JSON_PRETTY_PRINT));
     }
 }else{
-    print(json_encode(["error" => true, "msg" => "Follow Me At : https://github.com/anasybal"],  JSON_PRETTY_PRINT));
+    print(json_encode(["error" => true, "msg" => "Follow Me At : https://github.com/lil-nickel"],  JSON_PRETTY_PRINT));
 }
